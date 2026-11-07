@@ -7,12 +7,12 @@ This project analyzes real-time air quality data across India to identify pollut
 
 ## Dataset
 - **Records:** 3,563 monitoring readings
-- **Coverage:** 271 cities across 31 Indian states
+- **Coverage:** delhi
 - **Pollutants tracked:** PM2.5, PM10, NO2, SO2, CO, NH3, Ozone
-- **Fields:** state, city, station, latitude, longitude, pollutant ID, min/max/avg concentration, last updated timestamp
+- **Fields:** state, latitude, longitude, pollutant ID, min/max/avg concentration, last updated timestamp
 
 ## Objectives
-- Identify the most polluted states and cities
+- Identify the most polluted state
 - Compare pollutant levels across regions
 - Study relationships between different pollutants
 - Classify air quality into AQI categories
